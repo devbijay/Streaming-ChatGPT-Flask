@@ -1,0 +1,4 @@
+flask~=2.3.3
+openai~=0.27.9
+python-dotenv~=1.0.0
+blinker~=1.6.2
